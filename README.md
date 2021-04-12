@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @frroossst 
 - 👀 I’m interested in computer technology and neuroscience
-- 🌱 I’m currently learning python, HTML and mySQL 
-- 💞️ I’m looking to collaborate on (as of now not much)
+- 🌱 I’m currently learning python, C#, HTML and mySQL 
+- 💞️ I’m looking to collaborate on : (as of now not much)
 - 📫 How to reach me : adhyanpatel@protonmail.com
                        
 
