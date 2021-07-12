@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adhyan H. Patel or simply, @frroossst (Frost)
 - 👀 I’m interested in computer technology and neuroscience
 - 👨‍💻 Proficient in Python, mySQL and vim
-- 🌱 I’m currently learning C/C++, GOlang  
+- 🌱 I’m currently learning C/C++, GOlang and TypeScript
 - 📫 How to reach me : adhyanpatel@protonmail.com
 
 
