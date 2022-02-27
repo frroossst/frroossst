@@ -1,10 +1,31 @@
-- 👋 Hi, I’m Adhyan H. Patel or simply, @frroossst (Frost)
-- 👀 I’m interested in computer technology and neuroscience
-- 👨‍💻 Proficient in : Python, mySQL and vim
-- 🌱 I’m currently learning : JavaScript
-- 🔭 I want to eventually learn : C, GOlang, graphQL, mongoDB, React, LaTeX, threeJS, Redis, RegEx and TypeScript
-- 📫 How to reach me : adhyanpatel@gmail.com
+# Adhyan H. -@frroossst
+Hey, I'm Adhyan- a student at the University of Saskatchewan, majoring in Computer Science. I'm a huge nerd/geek. If you ever hear about a supervilain scheming to take over the world to acquire all the knowledge there's a good chance that's me.
 
+## My values
+🖋 Freedom \
+💝 Safety, Trust and Loyalty \
+🔎 Curiosity and learning mindset \
+🧑‍🤝‍🧑 Open mindedness and inclusivity 
+
+## What I know?
+### Programming Languages
+`Python` `mySQL` `JavaScript`
+
+### Technologies
+`Linux` `git & GitHub` `VSCode` `vim`
+
+### Languages
+`English` `Gujarati` `Hindi` `German`
+
+## What I want to learn?
+### Programming Languages
+`TypeScript` `C/C++` `x86 Assembly` `Rust` `GO lang` 
+### Technologies
+`RegEx` `React` `Docker` `Kubernetes` `Cloud Services` `3js` `LaTeX` `Redis` `graphQL` `MongoDB`
+
+## Contact Me
+✉️ adhyanpatel@gmail.com \
+🌐 [My Personal Website](https://github.com/frroossst)
 
 <!---
 frroossst/frroossst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
