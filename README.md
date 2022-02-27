@@ -23,6 +23,9 @@ Hey, I'm Adhyan- a student at the University of Saskatchewan, majoring in Comput
 ### Technologies
 `RegEx` `React` `Docker` `Kubernetes` `Cloud Services` `3js` `LaTeX` `Redis` `graphQL` `MongoDB`
 
+## Interests
+`Computer Science & Technology` `Neuroscience` `Philosophy` `Debates` `History` `World Building` `Books`
+
 ## Contact Me
 ✉️ adhyanpatel@gmail.com \
 🌐 [My Personal Website](https://github.com/frroossst)
