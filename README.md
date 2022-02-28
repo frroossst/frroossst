@@ -28,7 +28,7 @@ Hey, I'm Adhyan- a student at the University of Saskatchewan, majoring in Comput
 
 ## Contact Me
 ✉️ adhyanpatel@gmail.com \
-🌐 [My Personal Website](https://github.com/frroossst)
+🌐 [My Personal Website](https://frroossst.github.io/resume/)
 
 <!---
 frroossst/frroossst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
