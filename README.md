@@ -32,7 +32,9 @@ Hey, I'm Adhyan- a student at the University of Saskatchewan, majoring in Comput
 
 <p align="center">
   <img src="https://frroossst.github.io/resume/coding.png">
-  <p>Credit : xkcd comics</p>
+  <center>
+    <p>Credit : xkcd comics</p>
+  </center>
 </p>
 
 <!---
