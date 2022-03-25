@@ -14,7 +14,7 @@ Hey, I'm Adhyan- a student at the University of Saskatchewan, majoring in Comput
 ### Technologies
 `Linux` `git & GitHub` `VSCode` `vim`
 
-### Languages
+### Human Languages
 `English` `Gujarati` `Hindi` `German`
 
 ## What I want to learn?
