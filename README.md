@@ -9,10 +9,10 @@ Hey, I'm Adhyan- a student at the University of Saskatchewan, majoring in Comput
 
 ## What I know?
 ### Programming Languages
-`Python` `C` `mySQL` `JavaScript` `HTML`
+`Python` `C` `mySQL` `JavaScript` `HTML/CSS`
 
 ### Technologies
-`Linux` `git & GitHub` `VSCode` `vim`
+`Linux` `git & GitHub` `VSCode` `vim` `VueJS`
 
 ### Human Languages
 `English` `Gujarati` `Hindi` `German`
@@ -21,7 +21,7 @@ Hey, I'm Adhyan- a student at the University of Saskatchewan, majoring in Comput
 ### Programming Languages
 `TypeScript` `x86 Assembly` `Rust` `GO lang` `CSS`
 ### Technologies
-`RegEx` `React` `Docker` `Kubernetes` `Cloud Services` `3js` `LaTeX` `Redis` `graphQL` `MongoDB`
+`RegEx` `Docker` `Kubernetes` `Cloud Services` `3js` `LaTeX` `Redis` `graphQL` `MongoDB`
 
 ## Interests
 `Computer Science & Technology` `Neuroscience` `Philosophy` `Debates` `History` `World Building` `Books` `Attack Of Titan`
