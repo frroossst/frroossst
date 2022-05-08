@@ -21,7 +21,7 @@ Hey, I'm Adhyan- a student at the University of Saskatchewan, majoring in Comput
 ### Programming Languages
 `TypeScript` `x86 Assembly` `Rust` `GO lang`
 ### Technologies
-`RegEx` `Docker` `Kubernetes` `Cloud Services` `3js` `LaTeX` `Redis` `graphQL` `MongoDB`
+`RegEx` `Docker` `Kubernetes` `3js` `LaTeX` `Redis` `graphQL` `MongoDB`
 
 ## Interests
 `Computer Science & Technology` `Neuroscience` `Philosophy` `Debates` `History` `World Building` `Books` `Attack Of Titan`
