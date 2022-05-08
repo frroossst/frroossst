@@ -1,5 +1,5 @@
 # Adhyan H. -@frroossst
-Hey, I'm Adhyan- a student at the University of Saskatchewan, majoring in Computer Science. I'm a huge nerd/geek. If you ever hear about a supervilain scheming to take over the world to acquire all the knowledge there's a good chance that's me.
+Hey, I'm Adhyan- a student at the University of Saskatchewan, majoring in Computer Science. I'm a huge nerd/geek. If you ever hear about a supervilain scheming to take over the world to acquire all the knowledge; there's a good chance that's me.
 
 ## My values
 🖋 Freedom \
@@ -9,17 +9,17 @@ Hey, I'm Adhyan- a student at the University of Saskatchewan, majoring in Comput
 
 ## What I know?
 ### Programming Languages
-`Python` `C` `mySQL` `JavaScript` `HTML/CSS`
+`Python` `C` `JavaScript` `HTML/CSS` `mySQL/postgreSQL`
 
 ### Technologies
-`Linux` `git & GitHub` `VSCode` `vim` `VueJS`
+`Linux` `git & GitHub` `VSCode` `vim` `VueJS` `Heroku/Netlify`
 
 ### Human Languages
 `English` `Gujarati` `Hindi` `German`
 
 ## What I want to learn?
 ### Programming Languages
-`TypeScript` `x86 Assembly` `Rust` `GO lang` `CSS`
+`TypeScript` `x86 Assembly` `Rust` `GO lang`
 ### Technologies
 `RegEx` `Docker` `Kubernetes` `Cloud Services` `3js` `LaTeX` `Redis` `graphQL` `MongoDB`
 
@@ -28,7 +28,7 @@ Hey, I'm Adhyan- a student at the University of Saskatchewan, majoring in Comput
 
 ## Contact Me
 ✉️ adhyanpatel@gmail.com \
-🌐 [My Personal Website](https://frroossst.github.io/resume/)
+<!--🌐 [My Personal Website](https://frroossst.github.io/resume/)-->
 
 <p align="center">
   <img src="https://frroossst.github.io/resume/coding.png">
