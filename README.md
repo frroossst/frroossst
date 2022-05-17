@@ -19,7 +19,7 @@ Hey, I'm Adhyan- a student at the University of Saskatchewan, majoring in Comput
 
 ## What I want to learn?
 ### Programming Languages
-`TypeScript` `x86 Assembly` `Rust` `GO lang`
+`TypeScript` `x86 Assembly` `Rust` `GO lang` `Elixir`
 ### Technologies
 `RegEx` `Docker` `Kubernetes` `3js` `LaTeX` `Redis` `graphQL` `MongoDB`
 
