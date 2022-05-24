@@ -28,20 +28,24 @@ Hey, I'm Adhyan- a student at the University of Saskatchewan, majoring in Comput
 `Computer Science & Technology` `Neuroscience` `Philosophy` `History` `Story telling` `Reading`
 
 ## What I have built?
-### navXE
+### [navXE](https://github.com/frroossst/navXE)
   A local QR code based navigation
 
-### bomb the card game :warning: (work in progress) 
+### [bomb the card game](https://github.com/frroossst/bombTheCardGame) :warning: (work in progress) 
   A family card game turned into a multiplayer online experience
 
-### source to source self compiling python easter egg compiler
+### [source to source self compiling python easter egg compiler](https://github.com/frroossst/python_s2s_compiler)
   A compiler (rather linter) to add some functional features to python but mostly easter eggs and fun stuff.
   Written in Python, for Python, compiled (rather interpreted) in Python
+  I've also written a linter for Rust in Python [here](https://github.com/frroossst/rusty_python).
 
-### terminal chess
+### [YouTube subscription fetcher](https://github.com/frroossst/YouTube-subscription-fetcher)
+  A tool written in Rust that fetches latest videos from your subscriptions
+
+### [terminal chess](https://github.com/frroossst/terminal_chess)
   A terminal based chess program
   
-### stocks analysis algorithm
+### [stocks analysis algorithm](https://github.com/frroossst/StocksDataCollectionSystem)
   Recommends buy and sell trades for stocks from the NSA
 
 ## What I want to build?
