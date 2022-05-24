@@ -5,7 +5,7 @@ Hey, I'm Adhyan- a student at the University of Saskatchewan, majoring in Comput
 🖋 Freedom \
 🧑‍🤝‍🧑 Open mindedness \
 💝 Safety, Trust and Loyalty \
-🔎 Curiosity and learning mindset \
+🔎 Curiosity and learning mindset 
 
 
 ## What I know?
