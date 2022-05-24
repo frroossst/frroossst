@@ -3,9 +3,10 @@ Hey, I'm Adhyan- a student at the University of Saskatchewan, majoring in Comput
 
 ## My values
 🖋 Freedom \
+🧑‍🤝‍🧑 Open mindedness \
 💝 Safety, Trust and Loyalty \
 🔎 Curiosity and learning mindset \
-🧑‍🤝‍🧑 Open mindedness
+
 
 ## What I know?
 ### Programming Languages
@@ -24,10 +25,10 @@ Hey, I'm Adhyan- a student at the University of Saskatchewan, majoring in Comput
 `RegEx` `Docker` `Kubernetes` `3js` `LaTeX` `Redis` `graphQL` `MongoDB`
 
 ## Interests
-`Computer Science & Technology` `Neuroscience` `Philosophy` `Debates` `History` `World Building` `Reading`
+`Computer Science & Technology` `Neuroscience` `Philosophy` `History` `Story telling` `Reading`
 
 ## Contact Me
-✉️ adhyanpatel@gmail.com \
+✉️ adhyanpatel@gmail.com 
 <!--🌐 [My Personal Website](https://frroossst.github.io/resume/)-->
 
 <p align="center">
