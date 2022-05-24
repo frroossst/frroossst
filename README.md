@@ -27,6 +27,28 @@ Hey, I'm Adhyan- a student at the University of Saskatchewan, majoring in Comput
 ## Interests
 `Computer Science & Technology` `Neuroscience` `Philosophy` `History` `Story telling` `Reading`
 
+## What I have built?
+### navXE
+  A local QR code based navigation
+
+### bomb the card game :warning: (work in progress) 
+  A family card game turned into a multiplayer online experience
+
+### source to source self compiling python easter egg compiler
+  A compiler (rather linter) to add some functional features to python but mostly easter eggs and fun stuff.
+  Written in Python, for Python, compiled (rather interpreted) in Python
+
+### terminal chess
+  A terminal based chess program
+  
+### stocks analysis algorithm
+  Recommends buy and sell trades for stocks from the NSA
+
+## What I want to build?
+
+`a compiler` `a kernal` `an IRC` `a compression algorithm` `a version control system`
+
+
 ## Contact Me
 ✉️ adhyanpatel@gmail.com 
 <!--🌐 [My Personal Website](https://frroossst.github.io/resume/)-->
