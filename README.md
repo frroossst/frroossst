@@ -41,6 +41,9 @@ Hey, I'm Adhyan- a student at the University of Saskatchewan, majoring in Comput
 
 ### [YouTube subscription fetcher](https://github.com/frroossst/YouTube-subscription-fetcher)
   A tool written in Rust that fetches latest videos from your subscriptions
+  
+### [content-web-blocker](https://github.com/frroossst/webpage_content_blocker)
+  A firefox extension that blocks websties based on specified keywords
 
 ### [terminal chess](https://github.com/frroossst/terminal_chess)
   A terminal based chess program
