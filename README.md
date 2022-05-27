@@ -38,7 +38,7 @@ Hey, I'm Adhyan- a student at the University of Saskatchewan, majoring in Comput
   A tool written in Rust that fetches latest videos from your subscriptions
   
 ### [content-web-blocker](https://github.com/frroossst/webpage_content_blocker)
-  A firefox extension that blocks websties based on specified keywords
+  A firefox extension that blocks websties based on specified keywords. To check the extension out, [click here!](https://addons.mozilla.org/en-GB/firefox/addon/content-web-blocker/)
   
 ### [source to source self compiling python easter egg compiler](https://github.com/frroossst/python_s2s_compiler)
   A compiler (rather linter) to add some functional features to python but mostly easter eggs and fun stuff.
