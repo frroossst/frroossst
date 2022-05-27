@@ -29,7 +29,7 @@ Hey, I'm Adhyan- a student at the University of Saskatchewan, majoring in Comput
 
 ## What I have built?
 ### [navXE](https://github.com/frroossst/navXE)
-  A local QR code based navigation
+  A local QR code based navigation, Check out the website [here](https://navxe.netlify.app) and the API [here](https://navxe.herokuapp.com)
 
 ### [bomb the card game](https://github.com/frroossst/bombTheCardGame) :warning: (work in progress) 
   A family card game turned into a multiplayer online experience
