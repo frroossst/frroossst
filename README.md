@@ -1,73 +1,59 @@
-# Adhyan H. -@frroossst
-Hey, I'm Adhyan- a student at the University of Saskatchewan, majoring in Computer Science. I'm a huge nerd/geek. If you ever hear about a supervilain scheming to take over the world to acquire all the knowledge; there's a good chance that's me.
+```
+>>> neofetch
+```
 
-## My values
-🖋 Freedom \
-🧑‍🤝‍🧑 Open mindedness \
-💝 Safety, Trust and Loyalty \
-🔎 Curiosity and learning mindset 
-
-
-## What I know?
-### Programming Languages
-`Python` `C` `JavaScript` `HTML/CSS` `mySQL/postgreSQL`
-
-### Technologies
-`Linux` `git & GitHub` `VSCode` `vim` `VueJS` `Heroku/Netlify`
-
-### Human Languages
-`English` `Gujarati` `Hindi` `German`
-
-## What I want to learn?
-### Programming Languages
-`TypeScript` `x86 Assembly` `Rust` `GO lang` `Elixir`
-### Technologies
-`RegEx` `Docker` `Kubernetes` `3js` `LaTeX` `Redis` `graphQL` `MongoDB`
-
-## Interests
-`Computer Science & Technology` `Neuroscience` `Philosophy` `History` `Story telling` `Reading`
-
-## What I have built?
-### [navXE](https://github.com/frroossst/navXE)
-  A local QR code based navigation, Check out the website [here](https://navxe.netlify.app) and the API [here](https://navxe.herokuapp.com)
-
-### [bomb the card game](https://github.com/frroossst/bombTheCardGame) :warning: (work in progress) 
-  A family card game turned into a multiplayer online experience
-  
-### [YouTube subscription fetcher](https://github.com/frroossst/YouTube-subscription-fetcher)
-  A tool written in Rust that fetches latest videos from your subscriptions
-  
-### [content-web-blocker](https://github.com/frroossst/webpage_content_blocker)
-  A firefox extension that blocks websties based on specified keywords. To check the extension out, [click here!](https://addons.mozilla.org/en-GB/firefox/addon/content-web-blocker/)
-  
-### [source to source self compiling python easter egg compiler](https://github.com/frroossst/python_s2s_compiler)
-  A compiler (rather linter) to add some functional features to python but mostly easter eggs and fun stuff.
-  Written in Python, for Python, compiled (rather interpreted) in Python
-  I've also written a linter for Rust in Python [here](https://github.com/frroossst/rusty_python)
-
-### [terminal chess](https://github.com/frroossst/terminal_chess)
-  A terminal based chess program
-  
-### [stocks analysis algorithm](https://github.com/frroossst/StocksDataCollectionSystem)
-  Recommends buy and sell trades for stocks from the NSA
-
-## What I want to build?
-
-`a compiler` `a kernal` `an IRC` `a compression algorithm` `a version control system`
-
-
-## Contact Me
-✉️ adhyanpatel@gmail.com 
-<!--🌐 [My Personal Website](https://frroossst.github.io/resume/)-->
-
-<p align="center">
-  <img src="https://frroossst.github.io/resume/coding.png">
-  <center>
-    <p>Credit : xkcd comics</p>
-  </center>
+```
+frroossst@github
+----------------------------------
+OS : Linux Mint x86_64
+Shell : bash
+Location : Canada
+Languages : C, HTML/CSS, JavaScript, Python, Rust, Suneido 
+Others : git, GNU/linux, neovim, SQL, VSCode, VueJS
+Email : adhyanpatel@gmail.com
+```
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://singlecolorimage.com/get/F28FAD/25x20" />
+  <img src="https://singlecolorimage.com/get/ABE9B3/25x20" />
+  <img src="https://singlecolorimage.com/get/B5E8E0/25x20" />
+  <img src="https://singlecolorimage.com/get/96CDFB/25x20" />
+  <img src="https://singlecolorimage.com/get/89DCEB/25x20" />
 </p>
 
-<!---
-frroossst/frroossst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```
+>>> projects --summary --hyperlink --hot --no-order
+```
+<pre>
+<code>
+<a href="https://github.com/frroossst/navXE">navXE</a> : a local QR code based navigation app
+
+<a href="https://github.com/frroossst/bombTheCardGame">bomb</a>: a tradional family card game meets the web
+
+<a href="https://github.com/frroossst/YouTube-subscription-fetcher">yt-sub-fetch</a> : because youtube won't show me all of my subscriptions
+
+<a href="https://github.com/frroossst/webpage_content_blocker">content-web-blocker</a> : firefox extension to block webpages based on
+    specified keywords in the HTML of the page
+
+<a href="https://github.com/frroossst/python_s2s_compiler">s2s EE compiler</a> : a python compiler (rather linter) to add some easter
+    eggs and arguable useless features to Python
+
+<a href="https://github.com/frroossst/terminal_chess">terminal chess</a> : a terminal based chess program
+
+<a href="https://github.com/frroossst/StocksDataCollectionSystem">stonks</a> : a stocks recommendation algorithm
+
+<a href="https://github.com/frroossst/learn_any_programming_language">learn_any_programming_language</a> : easy questions to get you started with
+    any programming language
+
+<a href="https://github.com/frroossst/rusty_can">rusty_can</a> : stock recommendation algorithm in Rust based on coffee can
+    investing method
+</code>
+</pre>
+
+```
+>>> image
+```
+<pre>
+<img src="https://imgs.xkcd.com/comics/wisdom_of_the_ancients.png" height="300" width="400">
+source : xkcd comics
+</pre>
