@@ -51,6 +51,19 @@ Email : adhyanpatel@gmail.com
 </pre>
 
 ```
+>>> jobs --summary --ascending --hyperlink
+```
+<pre>
+<code>
+<a href="https://axonsoftware.com/">Axon Software</a> : building and improving their Instant Messenger platform
+    written in <a href="https://suneido.com/">Suneido</a> June-August 2022
+<a href="">Off By One Error Dev Corps</a> : co-founded a student led startup specialising in cyberphysical systems
+    that are low cost, fast performing for space applications
+
+</pre>
+</code>
+
+```
 >>> image
 ```
 <pre>
