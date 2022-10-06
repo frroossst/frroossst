@@ -28,6 +28,8 @@ Email : adhyanpatel@gmail.com
 <code>
 <a href="https://github.com/frroossst/navXE">navXE</a> : a local QR code based navigation app
 
+<a href="https://github.com/frroossst/whitesmiths_linter">whitesmiths_linter</a> : autoformats code to the superior indentation style
+
 <a href="https://github.com/frroossst/bombTheCardGame">bomb</a>: a tradional family card game meets the web
 
 <a href="https://github.com/frroossst/YouTube-subscription-fetcher">yt-sub-fetch</a> : because youtube won't show me all of my subscriptions
