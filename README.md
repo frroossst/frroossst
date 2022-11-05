@@ -32,19 +32,19 @@ Email : adhyanpatel@gmail.com
 
 <a href="https://github.com/frroossst/bombTheCardGame">bomb</a>: a tradional family card game meets the web
 
-<a href="https://github.com/frroossst/YouTube-subscription-fetcher">yt-sub-fetch</a> : because youtube won't show me all of my subscriptions
+<!--<a href="https://github.com/frroossst/YouTube-subscription-fetcher">yt-sub-fetch</a> : because youtube won't show me all of my subscriptions-->
 
 <a href="https://github.com/frroossst/webpage_content_blocker">content-web-blocker</a> : firefox extension to block webpages based on specified keywords in the HTML of the page
 
 <a href="https://github.com/frroossst/python_s2s_compiler">s2s EE compiler</a> : a python compiler (rather linter) to add some easter eggs and arguable useless features to Python
 
-<a href="https://github.com/frroossst/terminal_chess">terminal chess</a> : a terminal based chess program
+<!--<a href="https://github.com/frroossst/terminal_chess">terminal chess</a> : a terminal based chess program
 
-<a href="https://github.com/frroossst/StocksDataCollectionSystem">stonks</a> : a stocks recommendation algorithm
+<a href="https://github.com/frroossst/StocksDataCollectionSystem">stonks</a> : a stocks recommendation algorithm-->
 
-<a href="https://github.com/frroossst/learn_any_programming_language">learn_any_programming_language</a> : easy questions to get you started with any programming language
+<!--<a href="https://github.com/frroossst/learn_any_programming_language">learn_any_programming_language</a> : easy questions to get you started with any programming language
 
-<a href="https://github.com/frroossst/rusty_can">rusty_can</a> : stock recommendation algorithm in Rust based on coffee can investing method
+<a href="https://github.com/frroossst/rusty_can">rusty_can</a> : stock recommendation algorithm in Rust based on coffee can investing method-->
 </code>
 </pre>
 
