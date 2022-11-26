@@ -38,13 +38,8 @@ Email : adhyanpatel@gmail.com
 
 <a href="https://github.com/frroossst/python_s2s_compiler">s2s EE compiler</a> : a python compiler (rather linter) to add some easter eggs and arguable useless features to Python
 
-<!--<a href="https://github.com/frroossst/terminal_chess">terminal chess</a> : a terminal based chess program
+<a href="https://github.com/frroossst/saferm">rmsafe : Rust powered command line utility to move files to a custom trashcan location rather than just rm(ing) it(
 
-<a href="https://github.com/frroossst/StocksDataCollectionSystem">stonks</a> : a stocks recommendation algorithm-->
-
-<!--<a href="https://github.com/frroossst/learn_any_programming_language">learn_any_programming_language</a> : easy questions to get you started with any programming language
-
-<a href="https://github.com/frroossst/rusty_can">rusty_can</a> : stock recommendation algorithm in Rust based on coffee can investing method-->
 </code>
 </pre>
 
@@ -54,8 +49,7 @@ Email : adhyanpatel@gmail.com
 <pre>
 <code>
 <a href="https://axonsoftware.com/">Axon Software</a> : building and improving their Instant Messenger platform written in <a href="https://suneido.com/">Suneido</a> from June-August 2022
-<!---<a href="">Off By One Error Dev Corps</a> : co-founded a student led startup specialising in cyberphysical systems
-    that are low cost, fast performing for space applications-->
+
 </code>
 </pre>
 
