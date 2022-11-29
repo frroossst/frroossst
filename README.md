@@ -36,7 +36,7 @@ Email : adhyanpatel@gmail.com
 
 <a href="https://github.com/frroossst/python_s2s_compiler">s2s EE compiler</a> : a python compiler (rather linter) to add some easter eggs and arguable useless features to Python
 
-<a href="https://github.com/frroossst/saferm">rmsafe : Rust powered command line utility to move files to a custom trashcan location rather than just rm(ing) it(
+<a href="https://github.com/frroossst/saferm">rmsafe</a> : Rust powered command line utility to move files to a custom trashcan location rather than just rm(ing) it
 
 </code>
 </pre>
