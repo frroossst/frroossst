@@ -8,7 +8,7 @@ frroossst@github
 OS : Linux Mint x86_64
 Shell : bash
 Location : Canada
-Languages : C, HTML/CSS, JavaScript, Python, Rust, Suneido, SQL
+Languages : C/C++, HTML/CSS, (Java/Type)Script, Python, Rust, Suneido, Lua, (my/postgres)SQL
 Others : git, GNU/linux, neovim, VSCode, VueJS
 Email : adhyanpatel@gmail.com
 ```
