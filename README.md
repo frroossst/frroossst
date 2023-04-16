@@ -26,18 +26,17 @@ Email : adhyanpatel@gmail.com
 ```
 <pre>
 <code>
-<a href="https://github.com/frroossst/navXE">navXE</a> : a local QR code based navigation app
+<a href="https://github.com/frroossst/navXE">callingRustFunctionsFromC</a>: Calling Rust functions from C on an embedded system 
 
-<a href="https://github.com/frroossst/whitesmiths_linter">whitesmiths_linter</a> : autoformats code to the superior indentation style
+<a href="https://github.com/frroossst/py_mips_debugger">py_mips_debugger</a>: A minimal MIPS python interpreter for easy debugging and improved developer workflow 
 
-<a href="https://github.com/frroossst/bombTheCardGame">bomb</a>: a tradional family card game meets the web
+<a href="https://github.com/frroossst/dragonglass.nvim">dragonglass.nvim</a>: An obsidian like plugin for neovim written in lua 
 
-<a href="https://github.com/frroossst/webpage_content_blocker">content-web-blocker</a> : firefox extension to block webpages based on specified keywords in the HTML of the page
+<a href="https://github.com/frroossst/webpage_content_blocker">content-web-blocker</a>: Firefox extension to block webpages based on specified keywords in the HTML of the page
 
-<a href="https://github.com/frroossst/python_s2s_compiler">s2s EE compiler</a> : a python compiler (rather linter) to add some easter eggs and arguable useless features to Python
+<a href="https://github.com/frroossst/gsuneido">gsuneido</a>: Adding features to the Go implementation of Suneido
 
-<a href="https://github.com/frroossst/saferm">rmsafe</a> : Rust powered command line utility to move files to a custom trashcan location rather than just rm(ing) it
-
+<a href="https://github.com/frroossst/rmsafe">rmsafe</a>: Rust powered command line utility to move files to a custom trashcan location rather than just rm(ing) it
 </code>
 </pre>
 
@@ -46,8 +45,12 @@ Email : adhyanpatel@gmail.com
 ```
 <pre>
 <code>
-<a href="https://axonsoftware.com/">Axon Software</a> : building and improving their Instant Messenger platform written in <a href="https://suneido.com/">Suneido</a> from June-August 2022
+Summer Intern, <a href="https://axonsoftware.com/">Axon Software</a>: building and improving their Instant Messenger platform written in <a href="https://suneido.com/">Suneido</a> from  
+  June-August 2022
 
+<!--
+Compiler Engineer, <a href="https://axonsoftware.com/">Axon Software</a>: working on the Go implementation of the Suneido programming language from May-August 2023
+-->
 </code>
 </pre>
 
