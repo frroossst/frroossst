@@ -8,8 +8,8 @@ frroossst@github
 OS : Linux Mint x86_64
 Shell : bash
 Location : Canada
-Languages : C/C++, HTML/CSS, (Java/Type)Script, Python, Rust, Suneido, Lua, (my/postgres)SQL
-Others : git, GNU/linux, neovim, VSCode, VueJS
+Languages : C/C++, Rust, Python, Lua, (Java/Type)Script, Suneido, HTML/CSS, (my/postgres)SQL
+Others : git, GNU/linux, neovim, VSCode, cli
 Email : adhyanpatel@gmail.com
 ```
 <p align="left">
