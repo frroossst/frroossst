@@ -8,9 +8,12 @@ frroossst@github
 OS : Linux Mint x86_64
 Shell : bash
 Location : Canada
-Languages : C/C++, Rust, Python, Lua, (Java/Type)Script, Suneido, HTML/CSS, (my/postgres)SQL
+Languages : C/C++, Rust, Python, Lua, (Java/Type)Script, Suneido, OCaml, HTML/CSS, (my/postgres)SQL
 Others : git, GNU/linux, neovim, VSCode, cli
 Email : adhyanpatel@gmail.com
+Education: University of Saskatchewan
+    - Bachelors of Engineering in Engineering Physics
+    - Bachelors of Arts and Sciences in Computer Science
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -53,6 +56,13 @@ Compiler Engineer, <a href="https://axonsoftware.com/">Axon Software</a>: workin
 -->
 </code>
 </pre>
+
+```
+>>> life_goal
+```
+```
+researching self-replicating neuromorphic hardware capable of AGI
+```
 
 ```
 >>> image
