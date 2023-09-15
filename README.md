@@ -51,6 +51,10 @@ Education: University of Saskatchewan
 Summer Intern, <a href="https://axonsoftware.com/">Axon Software</a>: building and improving their Instant Messenger platform written in <a href="https://suneido.com/">Suneido</a> from  
   June-August 2022
 
+Programmer, <a href="https://axonsoftware.com/">Axon Software</a>: ai autocomplete with a special emphasis on limited data and limited compute utilisation; 
+  revamping/refactoring business code from May-August 2023
+
+Research Training Student: University of Saskatchewan: Adding optional and gradual types to a dynamic language using only the LSP and no additional syntax
 <!--
 Compiler Engineer, <a href="https://axonsoftware.com/">Axon Software</a>: working on the Go implementation of the Suneido programming language from May-August 2023
 -->
