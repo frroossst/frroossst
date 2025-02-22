@@ -62,11 +62,10 @@ Compiler Engineer, <a href="https://axonsoftware.com/">Axon Software</a>: workin
 </pre>
 
 ```
->>> life_goal
+>>> how_to_say_my_name
 ```
 ```
-researching self-replicating neuromorphic hardware capable of AGI
-```
+ [ədʱjən]```
 
 ```
 >>> image
