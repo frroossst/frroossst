@@ -65,8 +65,8 @@ Compiler Engineer, <a href="https://axonsoftware.com/">Axon Software</a>: workin
 >>> how_to_say_my_name
 ```
 ```
- [ədʱjən]```
-
+[ədʱjən]
+```
 ```
 >>> image
 ```
