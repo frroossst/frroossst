@@ -5,6 +5,7 @@
 ```
 frroossst@github
 ----------------------------------
+IPA: [ədʱjən]
 OS : Linux Mint x86_64
 Shell : bash
 Location : Canada
