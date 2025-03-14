@@ -9,8 +9,8 @@ IPA: [ədʱjən]
 OS : Linux Mint x86_64
 Shell : bash
 Location : Canada
-Languages : C/C++, Rust, Python, Lua, (Java/Type)Script, Suneido, OCaml, HTML/CSS, (my/postgres)SQL
-Others : git, GNU/linux, neovim, VSCode, cli
+Languages : embedded C, Rust, Go, Python, Suneido, OCaml, HTML/CSS  
+Others : git, GNU/linux, neovim, emacs  
 Email : adhyanpatel@gmail.com
 Education: University of Saskatchewan
     - Bachelors of Engineering in Engineering Physics
