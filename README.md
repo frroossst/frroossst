@@ -11,6 +11,7 @@ Shell : bash
 Location : Canada
 Languages : embedded C, Rust, Go, Python, Suneido, OCaml, HTML/CSS  
 Others : git, GNU/linux, neovim, emacs  
+Interests: compilers, programming language design, 
 Email : adhyanpatel@gmail.com
 Education: University of Saskatchewan
     - Bachelors of Engineering in Engineering Physics
@@ -26,7 +27,7 @@ Education: University of Saskatchewan
 </p>
 
 ```
->>> projects --summary --hyperlink --hot --no-order
+>>> projects --summary --hyperlink --hot --no-order 
 ```
 <pre>
 <code>
@@ -45,7 +46,7 @@ Education: University of Saskatchewan
 </pre>
 
 ```
->>> jobs --summary --ascending --hyperlink
+>>> jobs --summary --ascending 
 ```
 <pre>
 <code>
@@ -53,12 +54,14 @@ Summer Intern, <a href="https://axonsoftware.com/">Axon Software</a>: building a
   June-August 2022
 
 Programmer, <a href="https://axonsoftware.com/">Axon Software</a>: ai autocomplete with a special emphasis on limited data and limited compute utilisation; 
-  revamping/refactoring business code from May-August 2023
+    revamping/refactoring business code from May-August 2023
 
-Research Training Student: University of Saskatchewan: Adding optional and gradual types to a dynamic language using only the LSP and no additional syntax
-<!--
-Compiler Engineer, <a href="https://axonsoftware.com/">Axon Software</a>: working on the Go implementation of the Suneido programming language from May-August 2023
--->
+Research Training Student, University of Saskatchewan: Adding optional and gradual types to a dynamic language 
+    using only the LSP and no additional syntax
+
+Goodfellow Undergraduate Research Award, University of Saskatchewan: Improving A.I. in data scarce fields. 
+    Mainly, wireless capsule endoscopy
+
 </code>
 </pre>
 
@@ -69,7 +72,7 @@ Compiler Engineer, <a href="https://axonsoftware.com/">Axon Software</a>: workin
 [ədʱjən]
 ```
 ```
->>> image
+>>> meme --relatable
 ```
 <pre>
 <img src="https://imgs.xkcd.com/comics/wisdom_of_the_ancients.png" height="300" width="500">
